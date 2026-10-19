@@ -1,53 +1,21 @@
-# Hi, I'm Luv 👋
+# 💫 About Me:
+Integrated M.Tech student in Artificial Intelligence at VIT (2022 – 2027, CGPA 8.4/10). I build agentic AI systems and data analytics products, from RAG pipelines and multi-agent workflows to risk dashboards and predictive models.<br><br>📫 luvv2812@gmail.com · 💼 LinkedIn 🎯 Looking for Agentic AI Engineer and Data Analyst / Data Science roles
 
-Integrated M.Tech student in **Artificial Intelligence** at **VIT** (2022 – 2027, CGPA 8.4/10).
-I build **agentic AI systems** and **data analytics products**, from RAG pipelines and multi-agent workflows to risk dashboards and predictive models.
 
-📫 [luvv2812@gmail.com](mailto:luvv2812@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/luv-yadav)
-🎯 Looking for **Agentic AI Engineer** and **Data Analyst / Data Science** roles
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/luv-yadav-034620249) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luvv2812@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=LUV-07&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=LUV-07&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=LUV-07&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ Skills
-
-| Area | Tools |
-|---|---|
-| **Agentic AI / LLMs** | LangGraph, LangChain, RAG pipelines, Groq API, LLaMA, Tavily |
-| **Backend & Cloud** | FastAPI, Docker, AWS (Lambda, ECR, API Gateway), REST APIs, Celery |
-| **Data Analytics & BI** | Power BI, DAX, Power Query, Tableau, Excel (VBA), SQL, PostgreSQL |
-| **ML & Data** | Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Matplotlib |
-| **Vector / UI** | FAISS, Streamlit |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=LUV-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-### 🤖 Agentic AI
-- **[Multi-Agent RAG Framework](https://github.com/LUV-07/multi-agent-rag)**: document Q&A and summarization using a 4-agent LangGraph workflow, ingestion for PDF / DOCX / TXT (up to 50 MB), 6 FastAPI endpoints and a Streamlit UI showing source confidence scores.
-- **[Autonomous Research Agent](https://github.com/LUV-07/research_agent)**: breaks a question into sub-queries, searches the web, self-critiques, and returns cited reports. Built with LangGraph, Groq, Tavily, FastAPI and Streamlit, deployed on AWS Lambda.
-- **[Code Review & Bug Fix Agent](https://github.com/LUV-07/Code-Review-Bug-Fix-Agent)**: multi-agent pipeline that turns GitHub issues or error logs into pull requests.
-
-### 📊 Data Analytics
-- **[Financial Portfolio & Risk Analytics Dashboard](https://github.com/LUV-07/portfolio-risk-dashboard)**: Power BI + DAX dashboard on a PostgreSQL star schema, with a Python / yFinance pipeline. Tracks returns, drawdowns, VaR / CVaR, Sharpe, beta and alpha against a benchmark.
-- **CardioInsight**: end-to-end analysis of the UCI Heart Disease dataset: statistical validation (chi-square, t-tests), segmentation, and a Power BI dashboard.
-
-### 🧪 Machine Learning & Computer Vision
-- **[Sleep Apnea Severity Prediction](https://github.com/LUV-07/sleep-apnea)**: HRV features from raw ECG (PhysioNet), patient-grouped cross-validation, SHAP explainability. Best model: Logistic Regression with **0.785 AUC-ROC**.
-- **[Hand-Gesture Volume Control](https://github.com/LUV-07/Computer-Vision)**: real-time system volume control from webcam hand landmarks using MediaPipe.
-
----
-
-## 🏆 Achievements
-- 🥇 **7th of 300+ teams**, Synaphack 3.0 (Sept 2025)
-- ☁️ **AWS Certified Cloud Practitioner** (May 2026)
-
----
-
-## 📈 GitHub Stats
-
-![Luv's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUV-07&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LUV-07&layout=compact&hide_border=true)
-
----
-
-⭐ Open to internships and full-time roles. Feel free to reach out!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
